@@ -1,2 +1,2 @@
 # .github
-General Inforamtion
+General Information
